@@ -1,0 +1,66 @@
+/* ***************************************TAG******************************************************************************************/
+body{
+	margin: 0;
+}
+
+
+
+
+
+
+
+
+
+/*********************************************************Class****************************************************************************************************/
+
+.Head{
+	
+	background-color:#74c7b8;
+	padding-left:10px;
+	padding-bottom:10px;
+	padding-right:10px;
+	padding-top:10px;
+	position:relative;
+	
+
+}
+
+
+.Subhead1{
+	
+	background-color:#ffcda3;
+	height: 100px;
+	width: 1345px;
+	margin: 0px;
+	padding: 10px;
+	text-align: center;
+	
+	
+	
+}
+
+
+/*****************************************************************ID********************************************************************************************/
+#Heading{
+	
+	color:White;
+	font-family:sans-serif;
+	text-align: center;
+	font-size : 100px;
+	margin-left: 80px;
+}
+
+
+#img{
+	display:inline-block;
+	
+}
+
+
+
+
+
+
+
+
+
